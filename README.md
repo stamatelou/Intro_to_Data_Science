@@ -1,2 +1,2 @@
 # Intro_to_Data_Science
-Introduction to Data Science
+Introduction to the Data Science field. 
