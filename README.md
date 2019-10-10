@@ -1,2 +1,2 @@
-# Intro_to_Data_Science
-Introduction to the Data Science field. 
+# Intro to Data Science
+Set for tutorials suitable for begineers in the data science field
